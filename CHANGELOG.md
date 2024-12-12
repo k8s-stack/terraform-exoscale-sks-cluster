@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/schrodingers-stack/terraform-exoscale-sks-cluster/compare/v0.1.1...v0.1.2) (2024-12-12)
+
+
+### Continuous Integration
+
+* add config to enable Renovate ([3172d34](https://github.com/schrodingers-stack/terraform-exoscale-sks-cluster/commit/3172d34b6c3a16af5a7387ce9e363ca6884cacf4))
+
 ## [0.1.1](https://github.com/schrodingers-stack/terraform-exoscale-sks-cluster/compare/v0.1.0...v0.1.1) (2024-11-27)
 
 
